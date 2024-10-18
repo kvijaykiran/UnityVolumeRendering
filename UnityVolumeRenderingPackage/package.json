@@ -1,0 +1,13 @@
+{
+  "name": "com.kvijaykiran.myuvrpackage",
+  "version": "1.0.0",
+  "displayName": "My Custom UVR Package",
+  "description": "A custom Unity volume rendering package forked from mlavik1.",
+  "unity": "2020.3",
+  "author": {
+    "name": "Vijay Kalivarapu",
+    "email": "vijaykiran@gmail.com",
+    "url": "https://github.com/kvijaykiran"
+  }
+}
+
